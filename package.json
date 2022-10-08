@@ -1,0 +1,25 @@
+{
+  "name": "nft-storage",
+  "version": "1.0.0",
+  "description": "NFT-Storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AzureKn1ght/NFT-Storage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AzureKn1ght/NFT-Storage/issues"
+  },
+  "homepage": "https://github.com/AzureKn1ght/NFT-Storage#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "files-from-path": "^0.2.6",
+    "nft.storage": "^7.0.0"
+  }
+}
